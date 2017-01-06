@@ -1,4 +1,4 @@
-%%% script to run QCmulti asdfasdf asdef 
+%%% script to run QCmulti 
 
 %% load justin catalog
 
